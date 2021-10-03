@@ -1,2 +1,1 @@
-# neovim
-set up neovim
+## Download neovim source
